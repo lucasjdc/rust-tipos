@@ -1,6 +1,6 @@
 fn main() { 
     let notas: [f32; 4] = [6.5; 4];
-    let inteiro: i64 = 0;
+    let inteiro: usize = 0;
 
     println!("{}", notas[inteiro]);
 
