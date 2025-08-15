@@ -1,0 +1,19 @@
+# Diretório de build do Cargo
+/target/
+
+# Arquivos de lock para pacotes binários (opcional ignorar)
+# Cargo.lock
+
+# Backups do Rustfmt
+**/*.rs.bk
+
+# Arquivos gerados por IDEs
+.idea/
+.vscode/
+
+# Logs e caches
+*.log
+
+# Arquivos temporários do sistema
+.DS_Store
+Thumbs.db
